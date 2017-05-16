@@ -1,9 +1,9 @@
-package me.inno.framework.processing;
+package me.inox.framework.processing;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 
 /**
- * Е┬┤Г┴┤Д╦┼Д╦▀Ф√┤Ф▌╔Е▐ё
+ * гпф╛иообнд╫с©з
  * @author xiao
  *
  */
